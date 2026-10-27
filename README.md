@@ -5,6 +5,7 @@ includes:
 
 - Promotional assets (logo, banners, media, etc);
 - Operation guidelines (code of conduct, contributor's guidelines, etc);
+- Roadmaps;
 - Anything else that is related to operation part of the organization.
 
 ## License
