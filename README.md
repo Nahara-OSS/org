@@ -10,4 +10,8 @@ includes:
 ## License
 
 Unless otherwise noted, content in this repository is licensed under Creative
-Commons Attribution-ShareAlike 4.0 International.
+Commons Attribution-ShareAlike 4.0 International. See [the deed][cc-deed] or
+[full legal text][cc-legal] for more information.
+
+[cc-deed]: https://creativecommons.org/licenses/by-sa/4.0/
+[cc-legal]: ./LICENSE
